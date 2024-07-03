@@ -1,0 +1,19 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(198, 194, 191);
+    text-align: center;
+    margin: 20px;
+}
+
+li {
+    margin: 10px 0px;
+}
+
+button {
+    cursor: pointer;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
